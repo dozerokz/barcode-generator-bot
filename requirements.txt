@@ -1,0 +1,5 @@
+aiogram==3.4.1
+barcode_generator==0.1rc15
+fpdf==1.7.2
+Pillow==10.2.0
+pypdf==4.1.0
